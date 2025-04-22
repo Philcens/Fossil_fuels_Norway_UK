@@ -1,4 +1,4 @@
-This is the anonymous online Appendix for AOM conference submission Nr. 18172 to enhance the peer-review process.  
+This is the online Appendix for AOM conference submission Nr. 18172 to enhance the peer-review process.  
 
 This Appendix is intended to provide detailed methodological information and access to extensive qualitative data gathered for this paper. It includes the following elements: 
 
