@@ -4,7 +4,8 @@ This Appendix is intended to provide detailed methodological information and acc
 
 1.	Appendix 1: Codebook used to systematize the assembled data corpus
 2.	Appendix 2: Technical note Figure 1 and supplementary references 
-3.	Appendix 3: List of archival data and participant observation + selected quotes 
+3.	Appendix 3: List of archival data and participant observation + selected quotes
+4.	Appendix 4: Complementary illustrative quotes by category/subcategory 
 
 Upon acceptance in a journal, these files will be made publicly available under a permanent Zenodo link. 
 
